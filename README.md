@@ -3,18 +3,19 @@ Convert text via AutoHotkey
 
   
 ## Features
-* Convert Text to: Char, Decimal, Octal, Hexadecimal, Binary, Morsecode
+* Convert Text to: Char, Decimal, Octal, Hexadecimal, Binary
 
 ## Screenshot
 ![Screenshot](Screenshot.png)
 
 
 ## Info
-* Version: v0.1
+* Version: v0.2
 * URL: [AHK Thread](http://ahkscript.org/boards/viewtopic.php?f=6&t=133)
 
 
 ## Changelog
+* 0.2 | Fixed bugs, Improved code, Removed Morsecode, Added Dec/Hex to Char
 * 0.1 | First Release
 
 
@@ -25,4 +26,4 @@ Convert text via AutoHotkey
 
   
 ## Copyright and License
-[WTFPL License](LICENSE)
+[Unlicense](LICENSE)
